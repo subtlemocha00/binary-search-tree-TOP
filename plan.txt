@@ -1,7 +1,0 @@
-- sort array
-- remove duplicates
-- root = if arr.length < 1 return arr 
-    - else {
-        newNode(divideArr(arr.leftNode))
-        newNode(divideArr(arr.rightNode))
-    }
